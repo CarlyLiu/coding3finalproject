@@ -15,3 +15,8 @@ https://blog.insightdatascience.com/how-to-train-your-own-yolov3-detector-from-s
 https://www.kaggle.com/datasets/crawford/cat-dataset
 
 https://github.com/iacs-capstone-2020-adoptimize/final_project/tree/master
+
+adam recommend:
+yes, that can also be combined:
+You can use the cat face detector model to determine the area of the cat’s eyes
+You can use in-painting with a diffusion model to replace the cat’s eyes with sunglasses
