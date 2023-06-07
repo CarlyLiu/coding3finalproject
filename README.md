@@ -20,3 +20,4 @@ adam recommend:
 yes, that can also be combined:
 You can use the cat face detector model to determine the area of the cat’s eyes
 You can use in-painting with a diffusion model to replace the cat’s eyes with sunglasses
+https://www.timothybrooks.com/instruct-pix2pix/
