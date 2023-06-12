@@ -21,3 +21,9 @@ yes, that can also be combined:
 You can use the cat face detector model to determine the area of the cat’s eyes
 You can use in-painting with a diffusion model to replace the cat’s eyes with sunglasses
 https://www.timothybrooks.com/instruct-pix2pix/
+
+https://github.com/marando/pycatfd
+
+https://huggingface.co/runwayml/stable-diffusion-inpainting
+
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/in_painting_with_stable_diffusion_using_diffusers.ipynb#scrollTo=hvdHYdtTu6KA
