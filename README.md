@@ -65,6 +65,12 @@ I don't know what the reason is that the train YOLO code keeps reporting strange
 
 >FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000223.jpg'
 
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000157.jpg'
+
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000022.jpg'
+
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000122.jpg'
+
 But the size of the homemade database is too big so it can't be transferred to the colab to run:(
 So i waited half an hour to upload the document.
 
