@@ -4,9 +4,13 @@ I've really thought long and hard about what topic to do for the final project o
 
 I think the main step to implement is 
 
-1.tracking the cat eyes（update：1.use the cat face detector model to determine the area of the cat’s eyes）
+1.tracking the cat eyes
 
-2.put the images together（update：2.use in-painting with a diffusion model to replace the cat’s eyes with sunglasses）
+（update：1.use the cat face detector model to determine the area of the cat’s eyes）
+
+2.put the images together
+
+（update：2.use in-painting with a diffusion model to replace the cat’s eyes with sunglasses）
 
 
 ### 1.Dataset
@@ -35,6 +39,7 @@ That means, I need to do ** manually ** label images:(, which also is a new expe
 
 For good results label at least 300 images, so imanually label of cat eye 300+ images in trainning side and 40 images in test side.
 
+after that, i need to convert the VoTT csv format to the YOLOv3 format.
 
 
 
