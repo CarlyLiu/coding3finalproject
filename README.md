@@ -1,11 +1,42 @@
 # Coding3 Final Project
+### Aim
 I've really thought long and hard about what topic to do for the final project of coding3.Finally,I want to putting a glasses on the cat in image: make it like this 😊 ➡️ 😎
 
-I think the way to implement is 
+I think the main step to implement is 
 
-1.tracking the cat eyes
+1.tracking the cat eyes（update：1.use the cat face detector model to determine the area of the cat’s eyes）
 
-2.put the images together
+2.put the images together（update：2.use in-painting with a diffusion model to replace the cat’s eyes with sunglasses）
+
+
+### 1.Dataset
+At the beginning, I chose the existing database of cat.
+
+Cat Dataset：[https://www.kaggle.com/datasets/crawford/cat-dataset](https://www.kaggle.com/datasets/crawford/cat-dataset)
+
+Cat Face Detection：[https://www.kaggle.com/datasets/gpreda/cat-face-detection](https://www.kaggle.com/datasets/gpreda/cat-face-detection)
+
+<img width="529" alt="截屏2023-06-16 02 17 05" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/cf01bfc3-661c-4bad-b6a4-fac32b1806b1">
+
+the coding of download dataset in kaggle
+
+with reference:
+
+https://www.kaggle.com/general/156610
+
+https://www.kaggle.com/general/74235
+
+### 2.1 YOLO model dataset - Image Annotation
+Very unfortunately,I got a kaggle dataset of the cat eye ,but it's the points annotation (the yolo model need boxes annotation
+
+That means, I need to do ** manually ** label images:(, which also is a new experience for me, and really take me a long and boring time.
+
+<img width="1470" alt="截屏2023-06-15 22 56 33" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/d97cff64-d20d-4f3f-89b9-d2b16d69e4ce">
+
+For good results label at least 300 images, so imanually label of cat eye 300+ images in trainning side and 40 images in test side.
+
+
+
 
 reference:
 https://towardsdatascience.com/using-computer-vision-to-find-the-best-cat-photo-from-a-video-fd11c43596b8
