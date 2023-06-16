@@ -51,9 +51,21 @@ take me long time to figure out the tutorial of this part which is run in termin
 
 ### 2.2 train YOLO model
 
+I don't know what the reason is that the train YOLO code keeps reporting strange errors for weird reason and i really checked the file,which is absolutely in here.
 
+But the size of the homemade database is too big so it can't be transferred to the colab to run:(
 
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000322.jpg'
 
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000229.jpg'
+
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000190.jpg'
+
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000057.jpg'
+
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000146.jpg'
+
+>FileNotFoundError: [Errno 2] No such file or directory: '/Users/carly/Downloads/TrainYourOwnYOLO/-master/Data/Source_Images/Training_Images/vott-csv-export/flickr_cat_000223.jpg'
 
 
 
