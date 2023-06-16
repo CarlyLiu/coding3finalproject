@@ -43,6 +43,14 @@ For good results label at least 300 images, so imanually label of cat eye 300+ i
 
 after that, i need to convert the VoTT csv format to the YOLOv3 format.
 
+take me long time to figure out the tutorial of this part which is run in terminal.
+
+[data_train.txt](https://github.com/CarlyLiu/coding3finalproject/files/11765357/data_train.txt)
+
+[data_classes.txt](https://github.com/CarlyLiu/coding3finalproject/files/11765358/data_classes.txt)
+
+
+
 
 
 
