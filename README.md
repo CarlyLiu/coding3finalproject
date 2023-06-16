@@ -35,11 +35,18 @@ Very unfortunately,I got a kaggle dataset of the cat eye ,but it's the points an
 
 That means, I need to do ** manually ** label images:(, which also is a new experience for me, and really take me a long and boring time.
 
+> after this ,i got a idea of ai for label images, We can let the annotation software perform machine learning during the annotation process to predict the annotation label position, which can reduce the annotation time to a certain extent and improve efficiency.
+
 <img width="1470" alt="截屏2023-06-15 22 56 33" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/d97cff64-d20d-4f3f-89b9-d2b16d69e4ce">
 
 For good results label at least 300 images, so imanually label of cat eye 300+ images in trainning side and 40 images in test side.
 
 after that, i need to convert the VoTT csv format to the YOLOv3 format.
+
+
+
+
+
 
 
 
