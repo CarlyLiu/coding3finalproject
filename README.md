@@ -31,6 +31,8 @@ https://www.kaggle.com/general/156610
 https://www.kaggle.com/general/74235
 
 ### 2.1 YOLO model dataset - Image Annotation
+video link: https://youtu.be/N12Xlfa2jF8
+
 Very unfortunately,I got a kaggle dataset of the cat eye ,but it's the points annotation (the yolo model need boxes annotation
 
 That means, I need to do ** manually ** label images:(, which also is a new experience for me, and really take me a long and boring time.
