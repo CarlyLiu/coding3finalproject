@@ -80,6 +80,10 @@ reference:
 
 https://github.com/AntonMu/TrainYourOwnYOLO
 
+### 3 change main aim
+Since I couldn't really solve the problem with the train model, I decided to change direction and make some simple attempts based on my artificial database.
+
+
 ---------------
 
 https://towardsdatascience.com/using-computer-vision-to-find-the-best-cat-photo-from-a-video-fd11c43596b8
