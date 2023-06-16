@@ -93,6 +93,10 @@ There is of course the problem of manual marking errors.
 
 <img width="1470" alt="截屏2023-06-16 12 09 26" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/0844e1e3-ae59-4f1f-a873-d1365941c3bf">
 
+reference：
+
+really appreciate the help from chatgpt：https://chat.openai.com/share/19cb6083-4d14-4387-b17a-ae130af91832
+
 ### 4 conclude
 
 This final gave me a better understanding of how difficult it is to create a database and how it affects model training, etc.
