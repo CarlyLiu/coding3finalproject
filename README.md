@@ -41,6 +41,8 @@ That means, I need to do ** manually ** label images:(, which also is a new expe
 
 For good results label at least 300 images, so imanually label of cat eye 300+ images in trainning side and 40 images in test side.
 
+<img width="442" alt="截屏2023-06-16 05 32 18" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/24633085-b2bf-43aa-802a-f30e19a71f51">
+
 after that, i need to convert the VoTT csv format to the YOLOv3 format.
 
 take me long time to figure out the tutorial of this part which is run in terminal.
