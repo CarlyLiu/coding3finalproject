@@ -49,8 +49,7 @@ take me long time to figure out the tutorial of this part which is run in termin
 
 [data_classes.txt](https://github.com/CarlyLiu/coding3finalproject/files/11765358/data_classes.txt)
 
-
-
+### 2.2 train YOLO model
 
 
 
