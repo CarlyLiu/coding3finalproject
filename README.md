@@ -101,6 +101,12 @@ really appreciate the help from chatgpt：https://chat.openai.com/share/19cb6083
 
 This final gave me a better understanding of how difficult it is to create a database and how it affects model training, etc.
 
+For example, the proportion of eyes closed in the dataset is low in my manual data, so this can affect the accuracy issue.
+
+![image](https://github.com/CarlyLiu/coding3finalproject/assets/112803802/d1ee6d3d-9a1f-419a-a4b3-e91489ec2985)
+
+Normalisation is also very important because of the proximity of the cat to the lens. So the rate of eyeswith face should have been chosen, but I haven't had time to adjust it due to time problems.
+
 ---------------
 other reference:
 
