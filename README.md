@@ -69,6 +69,11 @@ But the size of the homemade database is too big so it can't be transferred to t
 So i waited half an hour to upload the document.
 
 reference:
+
+https://github.com/AntonMu/TrainYourOwnYOLO
+
+---------------
+
 https://towardsdatascience.com/using-computer-vision-to-find-the-best-cat-photo-from-a-video-fd11c43596b8
 
 https://blog.insightdatascience.com/how-to-train-your-own-yolov3-detector-from-scratch-224d10e55de2
