@@ -1,0 +1,4001 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTVjZWEwZjdmOWRhOTA3NDk0ZTFmMTlhZjI0YzAxMDkwMzM0YmNhOTJiNzVjODFlOGQzOWVkZDhmMjQ5YzBlZTlhNDA2ZGM2YmJmNWFlOGNhNzhjZDMzMDNmYzkzMGJjNzY1Y2U1NWJhNDE5MDY0NWFmYWExZWNiMzJhYjA3YzAiLCJpdiI6IjQ4OGE4NGI0OTUxMmMyNWRiYjQ5MzNmYjlhZTQ4OTlhNmM5NzJhYmY5ODc0ZDZkMyJ9"
+        },
+        "id": "kUzHD4sR4"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDdkOWVlNmE1ZTY3OGJiYTZhMjRhYWQ3OTk4MGRkNDNhNmE5ZGFkMGVlNWRhOGNhYzA4OTNlYzFkZDM4ODgzZDhlNDllZDE2MzM1YTA2MTVjNWVlYzgzM2Q1ZjQ0NmI3MjgyMDZhZjA3MTYyMTRiNjk0NDVjZWEyMmRjNDJhNDIiLCJpdiI6IjQ3MzhjNzQ0YTMxNjZlN2M0MjhhYTUwOTMzYzBlMmM1YjE4YTM2YmRhNTU1ZmRhMCJ9"
+        },
+        "id": "kUzHD4sR4"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "cat_eye_right",
+            "color": "#5db300"
+        },
+        {
+            "name": "cat_eye_left",
+            "color": "#e81123"
+        },
+        {
+            "name": "close",
+            "color": "#6917aa"
+        }
+    ],
+    "id": "k67e2CI99",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmY4NzFiMjJlODdiMmVlM2RkNzI4YmY2YTJkNDMwZDZhN2NlZmMxYTI3MGUxYmI4MGM1NzA1ZGRiYjYxMjY4ZGQzMDFlZTcyNTliZTYzMzUwMWU5OGEzNmVjN2JmMDRiIiwiaXYiOiJhZjM4ZGMwMTRlN2ZhMjU5YjUzZjM4YzVhZDlmNjhmMGExNDZiOWQ2YWIyNzJjMjcifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "5edba4e5964c63e4284994a95b06ab66",
+    "assets": {
+        "ea861b004ac783ecbed5634dadff85d4": {
+            "format": "jpg",
+            "id": "ea861b004ac783ecbed5634dadff85d4",
+            "name": "flickr_cat_000002.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000002.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e44ab9e65c0d3fc228dcc9a689494ed9": {
+            "format": "jpg",
+            "id": "e44ab9e65c0d3fc228dcc9a689494ed9",
+            "name": "flickr_cat_000003.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000003.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88fe690f2ad5a736c38eafdc86153f02": {
+            "format": "jpg",
+            "id": "88fe690f2ad5a736c38eafdc86153f02",
+            "name": "flickr_cat_000004.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000004.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13646120b42f501e07ceb9c475f0c957": {
+            "format": "jpg",
+            "id": "13646120b42f501e07ceb9c475f0c957",
+            "name": "flickr_cat_000005.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000005.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee7995de538035cb40ef9ab89096bea2": {
+            "format": "jpg",
+            "id": "ee7995de538035cb40ef9ab89096bea2",
+            "name": "flickr_cat_000006.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000006.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b096b208f5b667cca4e8d64f43f39b5e": {
+            "format": "jpg",
+            "id": "b096b208f5b667cca4e8d64f43f39b5e",
+            "name": "flickr_cat_000007.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000007.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "873202cbca09ed5b1c05ef668862eef8": {
+            "format": "jpg",
+            "id": "873202cbca09ed5b1c05ef668862eef8",
+            "name": "flickr_cat_000009.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000009.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "94714bd1d9cd09a3f04f4428611031eb": {
+            "format": "jpg",
+            "id": "94714bd1d9cd09a3f04f4428611031eb",
+            "name": "flickr_cat_000010.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000010.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7e7d866a71fbd2e912b4a18ee809f08": {
+            "format": "jpg",
+            "id": "f7e7d866a71fbd2e912b4a18ee809f08",
+            "name": "flickr_cat_000012.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000012.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63f518d72aaa6b71c1e605d2472ec47e": {
+            "format": "jpg",
+            "id": "63f518d72aaa6b71c1e605d2472ec47e",
+            "name": "flickr_cat_000013.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000013.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83cdf8314e530ef1f45234364f6e9923": {
+            "format": "jpg",
+            "id": "83cdf8314e530ef1f45234364f6e9923",
+            "name": "flickr_cat_000014.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000014.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18bcd134b9708a6a65b4fefc47307701": {
+            "format": "jpg",
+            "id": "18bcd134b9708a6a65b4fefc47307701",
+            "name": "flickr_cat_000015.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000015.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7416dc15206441c9fb91b2c69c35b32": {
+            "format": "jpg",
+            "id": "f7416dc15206441c9fb91b2c69c35b32",
+            "name": "flickr_cat_000017.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000017.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7213d75c7b4e68573fba5dd243af5d6": {
+            "format": "jpg",
+            "id": "a7213d75c7b4e68573fba5dd243af5d6",
+            "name": "flickr_cat_000018.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000018.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8540c11411eb71d1eb9f08390f9a2e0a": {
+            "format": "jpg",
+            "id": "8540c11411eb71d1eb9f08390f9a2e0a",
+            "name": "flickr_cat_000019.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000019.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b254c96b6512c86fe39d73a0f12c8b8": {
+            "format": "jpg",
+            "id": "5b254c96b6512c86fe39d73a0f12c8b8",
+            "name": "flickr_cat_000020.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000020.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aee2dd627d276918ba6405774b871cb1": {
+            "format": "jpg",
+            "id": "aee2dd627d276918ba6405774b871cb1",
+            "name": "flickr_cat_000021.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000021.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2dd73ac32c8c9549f0040011f8f650a1": {
+            "format": "jpg",
+            "id": "2dd73ac32c8c9549f0040011f8f650a1",
+            "name": "flickr_cat_000022.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000022.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f736dff3d4b369351a2e248e5faf1ee": {
+            "format": "jpg",
+            "id": "5f736dff3d4b369351a2e248e5faf1ee",
+            "name": "flickr_cat_000023.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000023.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "142f0607a01df417c67a103afd51e5ec": {
+            "format": "jpg",
+            "id": "142f0607a01df417c67a103afd51e5ec",
+            "name": "flickr_cat_000024.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000024.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8addd0914a7e2824d1288a7479aec704": {
+            "format": "jpg",
+            "id": "8addd0914a7e2824d1288a7479aec704",
+            "name": "flickr_cat_000025.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000025.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64e1887fbe0fd3ea3585855bddcb82d0": {
+            "format": "jpg",
+            "id": "64e1887fbe0fd3ea3585855bddcb82d0",
+            "name": "flickr_cat_000026.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000026.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6f1c5fd687315d3dd3b654856320586": {
+            "format": "jpg",
+            "id": "d6f1c5fd687315d3dd3b654856320586",
+            "name": "flickr_cat_000027.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000027.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "033a49c922db12c09081599facbd1a95": {
+            "format": "jpg",
+            "id": "033a49c922db12c09081599facbd1a95",
+            "name": "flickr_cat_000028.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000028.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae81910b760effac984f59227e9a07a3": {
+            "format": "jpg",
+            "id": "ae81910b760effac984f59227e9a07a3",
+            "name": "flickr_cat_000029.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000029.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c76f6572d597901707612b6a8d558704": {
+            "format": "jpg",
+            "id": "c76f6572d597901707612b6a8d558704",
+            "name": "flickr_cat_000030.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000030.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d959077793d4940c805fc17c36237f80": {
+            "format": "jpg",
+            "id": "d959077793d4940c805fc17c36237f80",
+            "name": "flickr_cat_000031.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000031.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ae430c65e40b32a6bec2853f01fc2ac": {
+            "format": "jpg",
+            "id": "5ae430c65e40b32a6bec2853f01fc2ac",
+            "name": "flickr_cat_000032.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000032.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30518df38f8816c079fa721631e16839": {
+            "format": "jpg",
+            "id": "30518df38f8816c079fa721631e16839",
+            "name": "flickr_cat_000033.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000033.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a931fee326ac8802f57108534c7ec4bc": {
+            "format": "jpg",
+            "id": "a931fee326ac8802f57108534c7ec4bc",
+            "name": "flickr_cat_000034.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000034.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7393c934e169b37892b93e965b961cd9": {
+            "format": "jpg",
+            "id": "7393c934e169b37892b93e965b961cd9",
+            "name": "flickr_cat_000035.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000035.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c0fc1b25ac8bcc6cd547fcc28a5c868": {
+            "format": "jpg",
+            "id": "0c0fc1b25ac8bcc6cd547fcc28a5c868",
+            "name": "flickr_cat_000036.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000036.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7798b2fd7e16b8908535602ce12f987": {
+            "format": "jpg",
+            "id": "a7798b2fd7e16b8908535602ce12f987",
+            "name": "flickr_cat_000037.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000037.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "897b6c8ce6eda01bd7ce76aedc48505d": {
+            "format": "jpg",
+            "id": "897b6c8ce6eda01bd7ce76aedc48505d",
+            "name": "flickr_cat_000038.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000038.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "174b2dcde748c8ff1212cd79044b16e1": {
+            "format": "jpg",
+            "id": "174b2dcde748c8ff1212cd79044b16e1",
+            "name": "flickr_cat_000039.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000039.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d392f17defb16ed58f418588dac704e": {
+            "format": "jpg",
+            "id": "4d392f17defb16ed58f418588dac704e",
+            "name": "flickr_cat_000040.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000040.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d19cf0fcfe704c939d2f809e5ad2f6ca": {
+            "format": "jpg",
+            "id": "d19cf0fcfe704c939d2f809e5ad2f6ca",
+            "name": "flickr_cat_000041.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000041.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01deac406cd6ba57b3d5d488157d2c76": {
+            "format": "jpg",
+            "id": "01deac406cd6ba57b3d5d488157d2c76",
+            "name": "flickr_cat_000042.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000042.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "409463d170c5189c50c3c2ead19e273a": {
+            "format": "jpg",
+            "id": "409463d170c5189c50c3c2ead19e273a",
+            "name": "flickr_cat_000043.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000043.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4060443b1da04872feec4f889ba53ffa": {
+            "format": "jpg",
+            "id": "4060443b1da04872feec4f889ba53ffa",
+            "name": "flickr_cat_000044.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000044.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3635b804adf3d6dd1fa62b5365bc9982": {
+            "format": "jpg",
+            "id": "3635b804adf3d6dd1fa62b5365bc9982",
+            "name": "flickr_cat_000045.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000045.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e4c57c523e8c9f2d6522a0e6df62f7e5": {
+            "format": "jpg",
+            "id": "e4c57c523e8c9f2d6522a0e6df62f7e5",
+            "name": "flickr_cat_000046.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000046.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74b8e0e910c57d3923b0b9dec498ce70": {
+            "format": "jpg",
+            "id": "74b8e0e910c57d3923b0b9dec498ce70",
+            "name": "flickr_cat_000047.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000047.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca32fd4842fb0be6229596e7601d8d73": {
+            "format": "jpg",
+            "id": "ca32fd4842fb0be6229596e7601d8d73",
+            "name": "flickr_cat_000048.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000048.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6e2b3b63027b938523775dcf9a54c18": {
+            "format": "jpg",
+            "id": "c6e2b3b63027b938523775dcf9a54c18",
+            "name": "flickr_cat_000049.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000049.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "053abe0e9daa12c5d78c9ea124b707a1": {
+            "format": "jpg",
+            "id": "053abe0e9daa12c5d78c9ea124b707a1",
+            "name": "flickr_cat_000050.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000050.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3bf154c59f038b9e367ca88dc119735": {
+            "format": "jpg",
+            "id": "c3bf154c59f038b9e367ca88dc119735",
+            "name": "flickr_cat_000051.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000051.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a6b61cef1332fc9cbe426bc47ed1ced2": {
+            "format": "jpg",
+            "id": "a6b61cef1332fc9cbe426bc47ed1ced2",
+            "name": "flickr_cat_000052.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000052.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c05d68ee8e750db87f4eb8a75f71c4c8": {
+            "format": "jpg",
+            "id": "c05d68ee8e750db87f4eb8a75f71c4c8",
+            "name": "flickr_cat_000053.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000053.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9eb204202e9b1f5da8e33b9ca95bfc4": {
+            "format": "jpg",
+            "id": "e9eb204202e9b1f5da8e33b9ca95bfc4",
+            "name": "flickr_cat_000054.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000054.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee2bca9378a57bb8b1a74721b444cf35": {
+            "format": "jpg",
+            "id": "ee2bca9378a57bb8b1a74721b444cf35",
+            "name": "flickr_cat_000055.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000055.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65c34d5eda43eac8ef2ae0073e9d925c": {
+            "format": "jpg",
+            "id": "65c34d5eda43eac8ef2ae0073e9d925c",
+            "name": "flickr_cat_000057.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000057.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e6d55fa1c0272f985ed48d9e683bc0b3": {
+            "format": "jpg",
+            "id": "e6d55fa1c0272f985ed48d9e683bc0b3",
+            "name": "flickr_cat_000058.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000058.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26c8f4a0bece15665f9bc455fe1e7382": {
+            "format": "jpg",
+            "id": "26c8f4a0bece15665f9bc455fe1e7382",
+            "name": "flickr_cat_000059.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000059.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a21f97d7454e19a8bd0b90431215af27": {
+            "format": "jpg",
+            "id": "a21f97d7454e19a8bd0b90431215af27",
+            "name": "flickr_cat_000060.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000060.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23ecfe0a33650f653c9cf546cfbb89f7": {
+            "format": "jpg",
+            "id": "23ecfe0a33650f653c9cf546cfbb89f7",
+            "name": "flickr_cat_000061.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000061.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d6103ecd623ca1d0fdb905b0da17c33": {
+            "format": "jpg",
+            "id": "6d6103ecd623ca1d0fdb905b0da17c33",
+            "name": "flickr_cat_000062.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000062.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a75b827409aed793122f5101850e1cff": {
+            "format": "jpg",
+            "id": "a75b827409aed793122f5101850e1cff",
+            "name": "flickr_cat_000063.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000063.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab4f3f71863975faaa5f01f1db1fc890": {
+            "format": "jpg",
+            "id": "ab4f3f71863975faaa5f01f1db1fc890",
+            "name": "flickr_cat_000064.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000064.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d3fc6009e443e981b2bc1c2c9380492": {
+            "format": "jpg",
+            "id": "9d3fc6009e443e981b2bc1c2c9380492",
+            "name": "flickr_cat_000065.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000065.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "14befcfd5fd69bf51e9ca95466d75ad9": {
+            "format": "jpg",
+            "id": "14befcfd5fd69bf51e9ca95466d75ad9",
+            "name": "flickr_cat_000066.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000066.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01bfef015132d2be83d7f67d1dc9d561": {
+            "format": "jpg",
+            "id": "01bfef015132d2be83d7f67d1dc9d561",
+            "name": "flickr_cat_000067.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000067.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29364c359f788774446d50727ec7397a": {
+            "format": "jpg",
+            "id": "29364c359f788774446d50727ec7397a",
+            "name": "flickr_cat_000068.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000068.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c7f4b439b320369d1eeda11ceee568b": {
+            "format": "jpg",
+            "id": "8c7f4b439b320369d1eeda11ceee568b",
+            "name": "flickr_cat_000069.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000069.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ddeb0d3c18c59b8ec8c6c571f392cd8": {
+            "format": "jpg",
+            "id": "5ddeb0d3c18c59b8ec8c6c571f392cd8",
+            "name": "flickr_cat_000070.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000070.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "addadebb96b0c3d80fc58e82931a8b0b": {
+            "format": "jpg",
+            "id": "addadebb96b0c3d80fc58e82931a8b0b",
+            "name": "flickr_cat_000071.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000071.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d444178d6a325eb912922d600552d5f5": {
+            "format": "jpg",
+            "id": "d444178d6a325eb912922d600552d5f5",
+            "name": "flickr_cat_000072.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000072.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfcf19d7154f1614d3795dee10b38935": {
+            "format": "jpg",
+            "id": "bfcf19d7154f1614d3795dee10b38935",
+            "name": "flickr_cat_000073.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000073.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a79d97de236d3ba6620c0e07b424c098": {
+            "format": "jpg",
+            "id": "a79d97de236d3ba6620c0e07b424c098",
+            "name": "flickr_cat_000074.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000074.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e9a332bdf1cb8323df50a966e65267e": {
+            "format": "jpg",
+            "id": "0e9a332bdf1cb8323df50a966e65267e",
+            "name": "flickr_cat_000075.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000075.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfaa2604845e75e58f01dd21b8ae24a5": {
+            "format": "jpg",
+            "id": "cfaa2604845e75e58f01dd21b8ae24a5",
+            "name": "flickr_cat_000077.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000077.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c555aa540b19a2912aaba344683736da": {
+            "format": "jpg",
+            "id": "c555aa540b19a2912aaba344683736da",
+            "name": "flickr_cat_000078.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000078.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f507028b3ecf840dfd107b9e662c5726": {
+            "format": "jpg",
+            "id": "f507028b3ecf840dfd107b9e662c5726",
+            "name": "flickr_cat_000079.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000079.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90faa4f24ca552c8c16008721fa6a51b": {
+            "format": "jpg",
+            "id": "90faa4f24ca552c8c16008721fa6a51b",
+            "name": "flickr_cat_000081.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000081.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7bb720bc4f713338fe42b746d77914c4": {
+            "format": "jpg",
+            "id": "7bb720bc4f713338fe42b746d77914c4",
+            "name": "flickr_cat_000082.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000082.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b77f6e60f3448e81459b1eb7bddb87b9": {
+            "format": "jpg",
+            "id": "b77f6e60f3448e81459b1eb7bddb87b9",
+            "name": "flickr_cat_000083.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000083.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c0845fc56c015a8bf99c47df3742192": {
+            "format": "jpg",
+            "id": "0c0845fc56c015a8bf99c47df3742192",
+            "name": "flickr_cat_000084.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000084.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75abc9418009d3f33e32dc33e13904d7": {
+            "format": "jpg",
+            "id": "75abc9418009d3f33e32dc33e13904d7",
+            "name": "flickr_cat_000085.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000085.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6363fc680b2dfbcde58a1139a2d74f54": {
+            "format": "jpg",
+            "id": "6363fc680b2dfbcde58a1139a2d74f54",
+            "name": "flickr_cat_000086.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000086.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c63096553cec9c987a21346ea0aae2c7": {
+            "format": "jpg",
+            "id": "c63096553cec9c987a21346ea0aae2c7",
+            "name": "flickr_cat_000087.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000087.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c6d181a05977966b9adb3d7e03ff9c9": {
+            "format": "jpg",
+            "id": "8c6d181a05977966b9adb3d7e03ff9c9",
+            "name": "flickr_cat_000088.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000088.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f27be08b74aa986e295c93b35e1fefb": {
+            "format": "jpg",
+            "id": "5f27be08b74aa986e295c93b35e1fefb",
+            "name": "flickr_cat_000089.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000089.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e438b714d01c76aa28af5e503cd72ff": {
+            "format": "jpg",
+            "id": "5e438b714d01c76aa28af5e503cd72ff",
+            "name": "flickr_cat_000090.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000090.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60a7e774d38a677848624e936265c35e": {
+            "format": "jpg",
+            "id": "60a7e774d38a677848624e936265c35e",
+            "name": "flickr_cat_000091.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000091.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f19cb40de109cb5312cefa3d4b71c5fc": {
+            "format": "jpg",
+            "id": "f19cb40de109cb5312cefa3d4b71c5fc",
+            "name": "flickr_cat_000092.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000092.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cc72ec7dc4056180a117f5aaaa8fde9a": {
+            "format": "jpg",
+            "id": "cc72ec7dc4056180a117f5aaaa8fde9a",
+            "name": "flickr_cat_000093.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000093.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5da40f0b107aed48878dc550693addf6": {
+            "format": "jpg",
+            "id": "5da40f0b107aed48878dc550693addf6",
+            "name": "flickr_cat_000094.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000094.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c74678fd20d1499cad5c0c7121c5023b": {
+            "format": "jpg",
+            "id": "c74678fd20d1499cad5c0c7121c5023b",
+            "name": "flickr_cat_000095.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000095.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e82cf35bac0213b9fdc35420ef4ec378": {
+            "format": "jpg",
+            "id": "e82cf35bac0213b9fdc35420ef4ec378",
+            "name": "flickr_cat_000097.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000097.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e8ae0a57de68c19fab42c77371c693f": {
+            "format": "jpg",
+            "id": "0e8ae0a57de68c19fab42c77371c693f",
+            "name": "flickr_cat_000098.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000098.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d372a15e34a4e957df4006677799d36": {
+            "format": "jpg",
+            "id": "8d372a15e34a4e957df4006677799d36",
+            "name": "flickr_cat_000099.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000099.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4fd920138c01365c23b2f43079f09a83": {
+            "format": "jpg",
+            "id": "4fd920138c01365c23b2f43079f09a83",
+            "name": "flickr_cat_000100.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000100.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f846b63c25e39ecda32d60c8582c9117": {
+            "format": "jpg",
+            "id": "f846b63c25e39ecda32d60c8582c9117",
+            "name": "flickr_cat_000101.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000101.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04607b2345e57e502bce4208ed161a44": {
+            "format": "jpg",
+            "id": "04607b2345e57e502bce4208ed161a44",
+            "name": "flickr_cat_000102.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000102.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b22a0a8adfbd230a05a0f8a2d133c13": {
+            "format": "jpg",
+            "id": "5b22a0a8adfbd230a05a0f8a2d133c13",
+            "name": "flickr_cat_000103.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000103.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24310f10df7778bdf780942f962701fb": {
+            "format": "jpg",
+            "id": "24310f10df7778bdf780942f962701fb",
+            "name": "flickr_cat_000104.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000104.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2f11fe05c1c99bea8a43d57fb5e0f39": {
+            "format": "jpg",
+            "id": "d2f11fe05c1c99bea8a43d57fb5e0f39",
+            "name": "flickr_cat_000105.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000105.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca7cfa66b7ab55cfaf8b0f4cd0ca2022": {
+            "format": "jpg",
+            "id": "ca7cfa66b7ab55cfaf8b0f4cd0ca2022",
+            "name": "flickr_cat_000106.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000106.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32c2c0c68f14966f04b748c8f6845d9c": {
+            "format": "jpg",
+            "id": "32c2c0c68f14966f04b748c8f6845d9c",
+            "name": "flickr_cat_000107.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000107.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "950c263ca4c44bcfc7f6108e1a19bbbb": {
+            "format": "jpg",
+            "id": "950c263ca4c44bcfc7f6108e1a19bbbb",
+            "name": "flickr_cat_000109.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000109.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "484aa165e221f1ce751e2c69312cd4d3": {
+            "format": "jpg",
+            "id": "484aa165e221f1ce751e2c69312cd4d3",
+            "name": "flickr_cat_000110.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000110.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f02ffdaecc765b6293e2b8108c39cb17": {
+            "format": "jpg",
+            "id": "f02ffdaecc765b6293e2b8108c39cb17",
+            "name": "flickr_cat_000111.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000111.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6a492568ca113a99b0e046ca26753ac": {
+            "format": "jpg",
+            "id": "d6a492568ca113a99b0e046ca26753ac",
+            "name": "flickr_cat_000112.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000112.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5490689f209442a1f703081aa5b9c01e": {
+            "format": "jpg",
+            "id": "5490689f209442a1f703081aa5b9c01e",
+            "name": "flickr_cat_000113.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000113.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4582f981e6968c9f60eeab0126a9e7ef": {
+            "format": "jpg",
+            "id": "4582f981e6968c9f60eeab0126a9e7ef",
+            "name": "flickr_cat_000114.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000114.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1948628d40086577a44d34621e754cdb": {
+            "format": "jpg",
+            "id": "1948628d40086577a44d34621e754cdb",
+            "name": "flickr_cat_000115.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000115.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f93a983858e3b3e2da1d62fdae20575": {
+            "format": "jpg",
+            "id": "0f93a983858e3b3e2da1d62fdae20575",
+            "name": "flickr_cat_000116.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000116.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bf83f0310adcc4ac67a40239520182d1": {
+            "format": "jpg",
+            "id": "bf83f0310adcc4ac67a40239520182d1",
+            "name": "flickr_cat_000117.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000117.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "390bee9a1eea9bd1ea354233cd098485": {
+            "format": "jpg",
+            "id": "390bee9a1eea9bd1ea354233cd098485",
+            "name": "flickr_cat_000118.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000118.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ff2e851dfec303c441434ea973716d1": {
+            "format": "jpg",
+            "id": "8ff2e851dfec303c441434ea973716d1",
+            "name": "flickr_cat_000119.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000119.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab80ed7039267c6cf5febe16a0c159ac": {
+            "format": "jpg",
+            "id": "ab80ed7039267c6cf5febe16a0c159ac",
+            "name": "flickr_cat_000120.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000120.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3f82d43c93258584276cfed63c08998": {
+            "format": "jpg",
+            "id": "f3f82d43c93258584276cfed63c08998",
+            "name": "flickr_cat_000121.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000121.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16a4e483234ba54ef6e8d6189b1c2c13": {
+            "format": "jpg",
+            "id": "16a4e483234ba54ef6e8d6189b1c2c13",
+            "name": "flickr_cat_000122.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000122.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8fb85bec86ca8edcba9c9342f3a69212": {
+            "format": "jpg",
+            "id": "8fb85bec86ca8edcba9c9342f3a69212",
+            "name": "flickr_cat_000124.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000124.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a6f9912058f14035ca5cdd39ac9b6a3": {
+            "format": "jpg",
+            "id": "0a6f9912058f14035ca5cdd39ac9b6a3",
+            "name": "flickr_cat_000125.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000125.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b820c76548ea01f2484c24ef653da6b2": {
+            "format": "jpg",
+            "id": "b820c76548ea01f2484c24ef653da6b2",
+            "name": "flickr_cat_000126.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000126.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9873cc2f0b1aaed71baab636e449d55": {
+            "format": "jpg",
+            "id": "a9873cc2f0b1aaed71baab636e449d55",
+            "name": "flickr_cat_000127.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000127.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c09f5b2d7197a792c2ab5dd8e0377ddf": {
+            "format": "jpg",
+            "id": "c09f5b2d7197a792c2ab5dd8e0377ddf",
+            "name": "flickr_cat_000128.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000128.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aae090a80ab2e42c9a35463501616d77": {
+            "format": "jpg",
+            "id": "aae090a80ab2e42c9a35463501616d77",
+            "name": "flickr_cat_000129.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000129.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32f207e3bb7b2ce9cc1f395ce497ac52": {
+            "format": "jpg",
+            "id": "32f207e3bb7b2ce9cc1f395ce497ac52",
+            "name": "flickr_cat_000130.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000130.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c8d6b38c9f90b30c45d1376df530c40": {
+            "format": "jpg",
+            "id": "1c8d6b38c9f90b30c45d1376df530c40",
+            "name": "flickr_cat_000131.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000131.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71a105acb1d84379d2d63ca118f26015": {
+            "format": "jpg",
+            "id": "71a105acb1d84379d2d63ca118f26015",
+            "name": "flickr_cat_000132.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000132.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d11b2eaa6e189d59f48cec943c7d6589": {
+            "format": "jpg",
+            "id": "d11b2eaa6e189d59f48cec943c7d6589",
+            "name": "flickr_cat_000133.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000133.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "12457b0173218f23f1bef5f530c2c61f": {
+            "format": "jpg",
+            "id": "12457b0173218f23f1bef5f530c2c61f",
+            "name": "flickr_cat_000134.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000134.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b25a024427969fddb6bd7c269239e1f": {
+            "format": "jpg",
+            "id": "6b25a024427969fddb6bd7c269239e1f",
+            "name": "flickr_cat_000135.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000135.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03a67be165d287a59f696cf8c95f8c31": {
+            "format": "jpg",
+            "id": "03a67be165d287a59f696cf8c95f8c31",
+            "name": "flickr_cat_000137.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000137.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "152c65dd8457af715c621ecf0e6dc6fb": {
+            "format": "jpg",
+            "id": "152c65dd8457af715c621ecf0e6dc6fb",
+            "name": "flickr_cat_000138.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000138.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b0d0a011eed8e23f34d7f95e37100e3": {
+            "format": "jpg",
+            "id": "6b0d0a011eed8e23f34d7f95e37100e3",
+            "name": "flickr_cat_000139.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000139.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "68f25efc736e3ea532f7585d5e1015fe": {
+            "format": "jpg",
+            "id": "68f25efc736e3ea532f7585d5e1015fe",
+            "name": "flickr_cat_000140.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000140.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2edf0cb2400dc70d1eb591f8d75fda7": {
+            "format": "jpg",
+            "id": "f2edf0cb2400dc70d1eb591f8d75fda7",
+            "name": "flickr_cat_000141.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000141.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d9e2ca35c039e29ebae5c93e9a9b6048": {
+            "format": "jpg",
+            "id": "d9e2ca35c039e29ebae5c93e9a9b6048",
+            "name": "flickr_cat_000142.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000142.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9b8fe37cbe816928db4a83297386eab": {
+            "format": "jpg",
+            "id": "f9b8fe37cbe816928db4a83297386eab",
+            "name": "flickr_cat_000143.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000143.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f09e856b6be65ca8dfbe18996ea7909": {
+            "format": "jpg",
+            "id": "6f09e856b6be65ca8dfbe18996ea7909",
+            "name": "flickr_cat_000144.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000144.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f19c7446cba0f21fe403b7fc0871a22a": {
+            "format": "jpg",
+            "id": "f19c7446cba0f21fe403b7fc0871a22a",
+            "name": "flickr_cat_000145.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000145.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76f57cfd591fd23153dc2b4cc4705040": {
+            "format": "jpg",
+            "id": "76f57cfd591fd23153dc2b4cc4705040",
+            "name": "flickr_cat_000146.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000146.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a9e2c8dcad28b9b836b26988eedfea2": {
+            "format": "jpg",
+            "id": "3a9e2c8dcad28b9b836b26988eedfea2",
+            "name": "flickr_cat_000147.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000147.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7214e78b7f887482fb3d065e29f4017": {
+            "format": "jpg",
+            "id": "f7214e78b7f887482fb3d065e29f4017",
+            "name": "flickr_cat_000148.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000148.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d130145b18700c7a2a01e03ad73f29f2": {
+            "format": "jpg",
+            "id": "d130145b18700c7a2a01e03ad73f29f2",
+            "name": "flickr_cat_000149.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000149.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "874536a77875658a46d16e85c4bd41a7": {
+            "format": "jpg",
+            "id": "874536a77875658a46d16e85c4bd41a7",
+            "name": "flickr_cat_000150.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000150.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab4dbc8ff57a6680c1d818197aa8343d": {
+            "format": "jpg",
+            "id": "ab4dbc8ff57a6680c1d818197aa8343d",
+            "name": "flickr_cat_000151.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000151.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "93bf3ed96818bc7d8e8827f620b8e29c": {
+            "format": "jpg",
+            "id": "93bf3ed96818bc7d8e8827f620b8e29c",
+            "name": "flickr_cat_000153.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000153.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "169d4536034c0bf6ab3ff2bb5671edf3": {
+            "format": "jpg",
+            "id": "169d4536034c0bf6ab3ff2bb5671edf3",
+            "name": "flickr_cat_000154.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000154.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3960f3243c0c2aa56d947e1ac297009": {
+            "format": "jpg",
+            "id": "d3960f3243c0c2aa56d947e1ac297009",
+            "name": "flickr_cat_000155.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000155.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bc53d7218c69c12a72fa4d88f0d93659": {
+            "format": "jpg",
+            "id": "bc53d7218c69c12a72fa4d88f0d93659",
+            "name": "flickr_cat_000156.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000156.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9aa58c74232760cab910bb7c0fc506dc": {
+            "format": "jpg",
+            "id": "9aa58c74232760cab910bb7c0fc506dc",
+            "name": "flickr_cat_000157.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000157.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f0f3c182350f100631c5005066239d6": {
+            "format": "jpg",
+            "id": "1f0f3c182350f100631c5005066239d6",
+            "name": "flickr_cat_000158.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000158.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a10a53047f9dba9dc36c61fd354d073": {
+            "format": "jpg",
+            "id": "2a10a53047f9dba9dc36c61fd354d073",
+            "name": "flickr_cat_000159.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000159.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2028aaa76d69314d043f9f5c65ad1abe": {
+            "format": "jpg",
+            "id": "2028aaa76d69314d043f9f5c65ad1abe",
+            "name": "flickr_cat_000160.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000160.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab7a4fde49826e00b56ed904b5141b7c": {
+            "format": "jpg",
+            "id": "ab7a4fde49826e00b56ed904b5141b7c",
+            "name": "flickr_cat_000161.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000161.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "856045ea36638715e96508ab196a05a2": {
+            "format": "jpg",
+            "id": "856045ea36638715e96508ab196a05a2",
+            "name": "flickr_cat_000163.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000163.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc115beefd21f71309220fc76a9e98fe": {
+            "format": "jpg",
+            "id": "dc115beefd21f71309220fc76a9e98fe",
+            "name": "flickr_cat_000164.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000164.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a706feed5375d8605e7f091797599540": {
+            "format": "jpg",
+            "id": "a706feed5375d8605e7f091797599540",
+            "name": "flickr_cat_000166.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000166.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c34a4aea47dded64c93f05f7adffadc6": {
+            "format": "jpg",
+            "id": "c34a4aea47dded64c93f05f7adffadc6",
+            "name": "flickr_cat_000167.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000167.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c99e55dca9e5890e792fad0a16d4da9": {
+            "format": "jpg",
+            "id": "9c99e55dca9e5890e792fad0a16d4da9",
+            "name": "flickr_cat_000168.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000168.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5ecf2bcd592095a2dc1adfbec52a3c0": {
+            "format": "jpg",
+            "id": "b5ecf2bcd592095a2dc1adfbec52a3c0",
+            "name": "flickr_cat_000169.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000169.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7a1a1d9e7d0e9638043f77f20d6fa72": {
+            "format": "jpg",
+            "id": "c7a1a1d9e7d0e9638043f77f20d6fa72",
+            "name": "flickr_cat_000170.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000170.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a5d5eb4a461b0db1345588640ecb563": {
+            "format": "jpg",
+            "id": "3a5d5eb4a461b0db1345588640ecb563",
+            "name": "flickr_cat_000171.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000171.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45c67740c246cb6d90284de63e8ebb37": {
+            "format": "jpg",
+            "id": "45c67740c246cb6d90284de63e8ebb37",
+            "name": "flickr_cat_000172.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000172.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d028cbd07323fa55cd01ca0b82c9e2d4": {
+            "format": "jpg",
+            "id": "d028cbd07323fa55cd01ca0b82c9e2d4",
+            "name": "flickr_cat_000173.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000173.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dff8f572afe25ae70527bb77fbcba815": {
+            "format": "jpg",
+            "id": "dff8f572afe25ae70527bb77fbcba815",
+            "name": "flickr_cat_000178.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000178.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23f7906ad3121d447a902e44503ec23d": {
+            "format": "jpg",
+            "id": "23f7906ad3121d447a902e44503ec23d",
+            "name": "flickr_cat_000179.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000179.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6391efa54ba7023a663fe3bd3979a30c": {
+            "format": "jpg",
+            "id": "6391efa54ba7023a663fe3bd3979a30c",
+            "name": "flickr_cat_000181.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000181.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e12392976a087dace434cb6575d196b": {
+            "format": "jpg",
+            "id": "4e12392976a087dace434cb6575d196b",
+            "name": "flickr_cat_000185.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000185.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "486309d57359db0091f69e08116780a3": {
+            "format": "jpg",
+            "id": "486309d57359db0091f69e08116780a3",
+            "name": "flickr_cat_000186.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000186.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b26094de508b3c53c731d85c3634ec3": {
+            "format": "jpg",
+            "id": "1b26094de508b3c53c731d85c3634ec3",
+            "name": "flickr_cat_000187.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000187.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4a35292c82a70a230794a1b62bcf244": {
+            "format": "jpg",
+            "id": "a4a35292c82a70a230794a1b62bcf244",
+            "name": "flickr_cat_000188.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000188.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e69a400e92b13f3e63a072d827325a2": {
+            "format": "jpg",
+            "id": "5e69a400e92b13f3e63a072d827325a2",
+            "name": "flickr_cat_000189.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000189.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2080b3ed4c61ab0c822aefd3a690076a": {
+            "format": "jpg",
+            "id": "2080b3ed4c61ab0c822aefd3a690076a",
+            "name": "flickr_cat_000190.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000190.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "49d1dc10267c8482cf9d0cd825ad3788": {
+            "format": "jpg",
+            "id": "49d1dc10267c8482cf9d0cd825ad3788",
+            "name": "flickr_cat_000192.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000192.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8025b3ec83e897603b6886b120c4525e": {
+            "format": "jpg",
+            "id": "8025b3ec83e897603b6886b120c4525e",
+            "name": "flickr_cat_000193.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000193.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "096d3d321c9732c846a5ad878ffbef3a": {
+            "format": "jpg",
+            "id": "096d3d321c9732c846a5ad878ffbef3a",
+            "name": "flickr_cat_000194.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000194.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3eff19e6e7d587c517fda0e62035c90c": {
+            "format": "jpg",
+            "id": "3eff19e6e7d587c517fda0e62035c90c",
+            "name": "flickr_cat_000195.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000195.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce1e6524232268eec3b7bdddf3a813e6": {
+            "format": "jpg",
+            "id": "ce1e6524232268eec3b7bdddf3a813e6",
+            "name": "flickr_cat_000196.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000196.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db9109809049e5b42050c012aaf011f9": {
+            "format": "jpg",
+            "id": "db9109809049e5b42050c012aaf011f9",
+            "name": "flickr_cat_000197.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000197.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7915063011cfd9a0f7a19f4425c99139": {
+            "format": "jpg",
+            "id": "7915063011cfd9a0f7a19f4425c99139",
+            "name": "flickr_cat_000198.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000198.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e66434c03d1df61e46ec27f7a19eaedb": {
+            "format": "jpg",
+            "id": "e66434c03d1df61e46ec27f7a19eaedb",
+            "name": "flickr_cat_000199.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000199.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6aeeaffcdc4a69a1f0dae206532fde66": {
+            "format": "jpg",
+            "id": "6aeeaffcdc4a69a1f0dae206532fde66",
+            "name": "flickr_cat_000200.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000200.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d59cf5e97ac35cada301d47b8b52042": {
+            "format": "jpg",
+            "id": "8d59cf5e97ac35cada301d47b8b52042",
+            "name": "flickr_cat_000201.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000201.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "947cd59976c87f70d710cc4ed1b41455": {
+            "format": "jpg",
+            "id": "947cd59976c87f70d710cc4ed1b41455",
+            "name": "flickr_cat_000202.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000202.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2222909c562f5c40fa29f6e0293105a": {
+            "format": "jpg",
+            "id": "c2222909c562f5c40fa29f6e0293105a",
+            "name": "flickr_cat_000203.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000203.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55fc75c588f7847e27be8f80c235a495": {
+            "format": "jpg",
+            "id": "55fc75c588f7847e27be8f80c235a495",
+            "name": "flickr_cat_000204.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000204.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4bad8d22ec136cd2b96743bf430439fd": {
+            "format": "jpg",
+            "id": "4bad8d22ec136cd2b96743bf430439fd",
+            "name": "flickr_cat_000205.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000205.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d74fd7bcf087cf4db39df17e926af631": {
+            "format": "jpg",
+            "id": "d74fd7bcf087cf4db39df17e926af631",
+            "name": "flickr_cat_000206.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000206.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73b3cb44e744f9fa19156a24465e6b0d": {
+            "format": "jpg",
+            "id": "73b3cb44e744f9fa19156a24465e6b0d",
+            "name": "flickr_cat_000207.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000207.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ef6c32f55330da33760fd3a945edce0": {
+            "format": "jpg",
+            "id": "5ef6c32f55330da33760fd3a945edce0",
+            "name": "flickr_cat_000209.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000209.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3700f19156975d0768b1dc99c9bfd142": {
+            "format": "jpg",
+            "id": "3700f19156975d0768b1dc99c9bfd142",
+            "name": "flickr_cat_000210.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000210.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c99b47f900178ad806534e958deb312d": {
+            "format": "jpg",
+            "id": "c99b47f900178ad806534e958deb312d",
+            "name": "flickr_cat_000211.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000211.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9434ecf6b975658e5f9b0e06605e2ce9": {
+            "format": "jpg",
+            "id": "9434ecf6b975658e5f9b0e06605e2ce9",
+            "name": "flickr_cat_000212.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000212.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e6d0eb4d62d17ac80c99ae16b19c0cba": {
+            "format": "jpg",
+            "id": "e6d0eb4d62d17ac80c99ae16b19c0cba",
+            "name": "flickr_cat_000213.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000213.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5edba4e5964c63e4284994a95b06ab66": {
+            "format": "jpg",
+            "id": "5edba4e5964c63e4284994a95b06ab66",
+            "name": "flickr_cat_000214.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000214.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a33d424a78a0b37bcbb2f9e93e028a38": {
+            "format": "jpg",
+            "id": "a33d424a78a0b37bcbb2f9e93e028a38",
+            "name": "flickr_cat_000215.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000215.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a412848eeca4fe636af6eeb79f4f888": {
+            "format": "jpg",
+            "id": "9a412848eeca4fe636af6eeb79f4f888",
+            "name": "flickr_cat_000217.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000217.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "920eac659d812fa979f13f120ccdc516": {
+            "format": "jpg",
+            "id": "920eac659d812fa979f13f120ccdc516",
+            "name": "flickr_cat_000218.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000218.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "402ceb1260fc09ea28db708fcec761a9": {
+            "format": "jpg",
+            "id": "402ceb1260fc09ea28db708fcec761a9",
+            "name": "flickr_cat_000219.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000219.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8e42188c01b0823994cff672fbcfc6f": {
+            "format": "jpg",
+            "id": "d8e42188c01b0823994cff672fbcfc6f",
+            "name": "flickr_cat_000220.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000220.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "49cd4dea440965c74a4e570c6084094e": {
+            "format": "jpg",
+            "id": "49cd4dea440965c74a4e570c6084094e",
+            "name": "flickr_cat_000221.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000221.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46ed523cade680d06e0289b4c9b6ff9a": {
+            "format": "jpg",
+            "id": "46ed523cade680d06e0289b4c9b6ff9a",
+            "name": "flickr_cat_000222.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000222.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5676fc5cec8b50bc4cdc68e8111d2648": {
+            "format": "jpg",
+            "id": "5676fc5cec8b50bc4cdc68e8111d2648",
+            "name": "flickr_cat_000223.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000223.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a16a3953085791fc25abb83aaddcf22f": {
+            "format": "jpg",
+            "id": "a16a3953085791fc25abb83aaddcf22f",
+            "name": "flickr_cat_000224.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000224.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d94618e1039269ba665bc914d7bce84e": {
+            "format": "jpg",
+            "id": "d94618e1039269ba665bc914d7bce84e",
+            "name": "flickr_cat_000225.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000225.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59a7b917f67575738b07f97fa7d2ea96": {
+            "format": "jpg",
+            "id": "59a7b917f67575738b07f97fa7d2ea96",
+            "name": "flickr_cat_000227.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000227.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8756664b937b77efc843603b2df4202e": {
+            "format": "jpg",
+            "id": "8756664b937b77efc843603b2df4202e",
+            "name": "flickr_cat_000228.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000228.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f56a5b0ab908837a1051aad2e51d5c90": {
+            "format": "jpg",
+            "id": "f56a5b0ab908837a1051aad2e51d5c90",
+            "name": "flickr_cat_000229.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000229.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e4527c77ff5a339db722a0fdee0bfc2": {
+            "format": "jpg",
+            "id": "6e4527c77ff5a339db722a0fdee0bfc2",
+            "name": "flickr_cat_000231.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000231.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10255a57171fd1e8dd3f41be4a04ecd1": {
+            "format": "jpg",
+            "id": "10255a57171fd1e8dd3f41be4a04ecd1",
+            "name": "flickr_cat_000234.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000234.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6fa1009acb788081073f05138c32143c": {
+            "format": "jpg",
+            "id": "6fa1009acb788081073f05138c32143c",
+            "name": "flickr_cat_000235.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000235.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d2ee5caa140c85663ab8976dfdc963e": {
+            "format": "jpg",
+            "id": "6d2ee5caa140c85663ab8976dfdc963e",
+            "name": "flickr_cat_000237.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000237.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b0a9a7bf22a6e2af7f1b76160ed4405": {
+            "format": "jpg",
+            "id": "5b0a9a7bf22a6e2af7f1b76160ed4405",
+            "name": "flickr_cat_000239.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000239.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0a17a0656b59dcecd13f9aa231188fa": {
+            "format": "jpg",
+            "id": "d0a17a0656b59dcecd13f9aa231188fa",
+            "name": "flickr_cat_000240.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000240.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cb5720b7bdf69658efc8441b06dd190": {
+            "format": "jpg",
+            "id": "8cb5720b7bdf69658efc8441b06dd190",
+            "name": "flickr_cat_000241.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000241.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2fb459b06ae7844d46dcbdb0b715711e": {
+            "format": "jpg",
+            "id": "2fb459b06ae7844d46dcbdb0b715711e",
+            "name": "flickr_cat_000242.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000242.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00cbe5cf8cd4bb1b8719e58776d0c714": {
+            "format": "jpg",
+            "id": "00cbe5cf8cd4bb1b8719e58776d0c714",
+            "name": "flickr_cat_000243.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000243.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db7f51cac8703880e40061e8fa4bf874": {
+            "format": "jpg",
+            "id": "db7f51cac8703880e40061e8fa4bf874",
+            "name": "flickr_cat_000244.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000244.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "868c4eb50202cb6553784034028f81d5": {
+            "format": "jpg",
+            "id": "868c4eb50202cb6553784034028f81d5",
+            "name": "flickr_cat_000245.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000245.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d3a0c2b46e1528a25529bedd7cac460": {
+            "format": "jpg",
+            "id": "3d3a0c2b46e1528a25529bedd7cac460",
+            "name": "flickr_cat_000246.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000246.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f333278899596e9b25eea29bfd53bf1": {
+            "format": "jpg",
+            "id": "0f333278899596e9b25eea29bfd53bf1",
+            "name": "flickr_cat_000247.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000247.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f830828af49a594eff470cccb9a37c65": {
+            "format": "jpg",
+            "id": "f830828af49a594eff470cccb9a37c65",
+            "name": "flickr_cat_000248.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000248.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "289b8c0171272b8792fb0d5cee056bed": {
+            "format": "jpg",
+            "id": "289b8c0171272b8792fb0d5cee056bed",
+            "name": "flickr_cat_000249.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000249.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e209e755eda38097482302f6beb166d3": {
+            "format": "jpg",
+            "id": "e209e755eda38097482302f6beb166d3",
+            "name": "flickr_cat_000250.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000250.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "161fefba8a4469ef06f1174b6ce3edf6": {
+            "format": "jpg",
+            "id": "161fefba8a4469ef06f1174b6ce3edf6",
+            "name": "flickr_cat_000251.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000251.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43aa5e77ff386a16c54651436a340618": {
+            "format": "jpg",
+            "id": "43aa5e77ff386a16c54651436a340618",
+            "name": "flickr_cat_000252.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000252.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ee6a8f9cd7485dc7e5edf92853d1728": {
+            "format": "jpg",
+            "id": "4ee6a8f9cd7485dc7e5edf92853d1728",
+            "name": "flickr_cat_000254.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000254.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04f5d0804f9a781398845b9883e7fb12": {
+            "format": "jpg",
+            "id": "04f5d0804f9a781398845b9883e7fb12",
+            "name": "flickr_cat_000255.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000255.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d345a012ee2c9d56e73f494ba155103": {
+            "format": "jpg",
+            "id": "2d345a012ee2c9d56e73f494ba155103",
+            "name": "flickr_cat_000256.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000256.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ecb9eb22a2790f108f1a9d7e0295ba1": {
+            "format": "jpg",
+            "id": "3ecb9eb22a2790f108f1a9d7e0295ba1",
+            "name": "flickr_cat_000257.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000257.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "986827cef8a4fee74d0d8d633789bbb5": {
+            "format": "jpg",
+            "id": "986827cef8a4fee74d0d8d633789bbb5",
+            "name": "flickr_cat_000258.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000258.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73b24db9196aaa5ab05879df5291e0ee": {
+            "format": "jpg",
+            "id": "73b24db9196aaa5ab05879df5291e0ee",
+            "name": "flickr_cat_000259.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000259.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a44a7e7d3810a63b46eeec9212d3c3f6": {
+            "format": "jpg",
+            "id": "a44a7e7d3810a63b46eeec9212d3c3f6",
+            "name": "flickr_cat_000260.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000260.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbf22723d241183958c2edbc51bddccf": {
+            "format": "jpg",
+            "id": "bbf22723d241183958c2edbc51bddccf",
+            "name": "flickr_cat_000261.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000261.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbc18f9d93844876114751f369e38eb0": {
+            "format": "jpg",
+            "id": "cbc18f9d93844876114751f369e38eb0",
+            "name": "flickr_cat_000262.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000262.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4668cae57a5a367ef952c3e1a0c344dc": {
+            "format": "jpg",
+            "id": "4668cae57a5a367ef952c3e1a0c344dc",
+            "name": "flickr_cat_000263.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000263.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ed6488201a2ea74f63fdb411d0fa58e0": {
+            "format": "jpg",
+            "id": "ed6488201a2ea74f63fdb411d0fa58e0",
+            "name": "flickr_cat_000264.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000264.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a41f12cb7d2adb0db7ddb4cf9577588e": {
+            "format": "jpg",
+            "id": "a41f12cb7d2adb0db7ddb4cf9577588e",
+            "name": "flickr_cat_000266.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000266.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d727768f7522e976f4be19dbb2de40c6": {
+            "format": "jpg",
+            "id": "d727768f7522e976f4be19dbb2de40c6",
+            "name": "flickr_cat_000267.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000267.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90aafc928bc6c0a79e17c529fbc52029": {
+            "format": "jpg",
+            "id": "90aafc928bc6c0a79e17c529fbc52029",
+            "name": "flickr_cat_000268.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000268.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f333356fb300089c4714d91b67d64aec": {
+            "format": "jpg",
+            "id": "f333356fb300089c4714d91b67d64aec",
+            "name": "flickr_cat_000269.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000269.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3557f3c774f9695b90e4b792c6c7a1d": {
+            "format": "jpg",
+            "id": "d3557f3c774f9695b90e4b792c6c7a1d",
+            "name": "flickr_cat_000270.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000270.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7bb0d0a07d1de9c6c5bf4400bbe5a23e": {
+            "format": "jpg",
+            "id": "7bb0d0a07d1de9c6c5bf4400bbe5a23e",
+            "name": "flickr_cat_000271.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000271.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6eeeb91c991cd0479a5aa36f2bdfd1f0": {
+            "format": "jpg",
+            "id": "6eeeb91c991cd0479a5aa36f2bdfd1f0",
+            "name": "flickr_cat_000272.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000272.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "551e77634ced64c3053f27975b32abe0": {
+            "format": "jpg",
+            "id": "551e77634ced64c3053f27975b32abe0",
+            "name": "flickr_cat_000273.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000273.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8e2e5af27888c7a0e55cfcf98462096": {
+            "format": "jpg",
+            "id": "f8e2e5af27888c7a0e55cfcf98462096",
+            "name": "flickr_cat_000274.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000274.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74025b8cf0e828ec7c2f8cd90b66379f": {
+            "format": "jpg",
+            "id": "74025b8cf0e828ec7c2f8cd90b66379f",
+            "name": "flickr_cat_000275.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000275.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "333d8db078d27b3620343405d4dc814e": {
+            "format": "jpg",
+            "id": "333d8db078d27b3620343405d4dc814e",
+            "name": "flickr_cat_000276.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000276.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1277b1836790f75dc0b81d496496d691": {
+            "format": "jpg",
+            "id": "1277b1836790f75dc0b81d496496d691",
+            "name": "flickr_cat_000277.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000277.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e37ea30442bd38920f97ab32a3b7c5e1": {
+            "format": "jpg",
+            "id": "e37ea30442bd38920f97ab32a3b7c5e1",
+            "name": "flickr_cat_000278.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000278.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b3012cfd27ad85a1b47e1e51c6b476c": {
+            "format": "jpg",
+            "id": "3b3012cfd27ad85a1b47e1e51c6b476c",
+            "name": "flickr_cat_000279.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000279.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c39caf42dc38d2627f9c6b6499874416": {
+            "format": "jpg",
+            "id": "c39caf42dc38d2627f9c6b6499874416",
+            "name": "flickr_cat_000280.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000280.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4be557a4b21db306a94c13b5c52e57c": {
+            "format": "jpg",
+            "id": "f4be557a4b21db306a94c13b5c52e57c",
+            "name": "flickr_cat_000281.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000281.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2eeb1a3f6f266cfbf24cfbcd2430366": {
+            "format": "jpg",
+            "id": "a2eeb1a3f6f266cfbf24cfbcd2430366",
+            "name": "flickr_cat_000282.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000282.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32e02b1284fb9508f534e104576bc5c5": {
+            "format": "jpg",
+            "id": "32e02b1284fb9508f534e104576bc5c5",
+            "name": "flickr_cat_000284.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000284.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05fdc7dec30233f9bda5d5c111aa7aa2": {
+            "format": "jpg",
+            "id": "05fdc7dec30233f9bda5d5c111aa7aa2",
+            "name": "flickr_cat_000285.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000285.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a7ec2ce4febe1feed9c14ce7285b0e3": {
+            "format": "jpg",
+            "id": "2a7ec2ce4febe1feed9c14ce7285b0e3",
+            "name": "flickr_cat_000286.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000286.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5bb335d44384ccbcb92034165a5e945b": {
+            "format": "jpg",
+            "id": "5bb335d44384ccbcb92034165a5e945b",
+            "name": "flickr_cat_000288.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000288.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59c0e35ad7b78176641b51ad84b1e44f": {
+            "format": "jpg",
+            "id": "59c0e35ad7b78176641b51ad84b1e44f",
+            "name": "flickr_cat_000289.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000289.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "608acbc2d4f90f0e46a80c7b42bbb21d": {
+            "format": "jpg",
+            "id": "608acbc2d4f90f0e46a80c7b42bbb21d",
+            "name": "flickr_cat_000290.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000290.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cc730f9cd78a5c7e9f0f0bbfff01511": {
+            "format": "jpg",
+            "id": "8cc730f9cd78a5c7e9f0f0bbfff01511",
+            "name": "flickr_cat_000291.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000291.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d38fd7a2bb0377652afe87f2d3775e97": {
+            "format": "jpg",
+            "id": "d38fd7a2bb0377652afe87f2d3775e97",
+            "name": "flickr_cat_000293.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000293.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90e49e6ec23dff54f3782569834cdb5e": {
+            "format": "jpg",
+            "id": "90e49e6ec23dff54f3782569834cdb5e",
+            "name": "flickr_cat_000294.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000294.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2910589499434aef3f39f9cd44f66a9": {
+            "format": "jpg",
+            "id": "e2910589499434aef3f39f9cd44f66a9",
+            "name": "flickr_cat_000295.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000295.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec1bfe4e9e2c31e9d94a50d7e271c671": {
+            "format": "jpg",
+            "id": "ec1bfe4e9e2c31e9d94a50d7e271c671",
+            "name": "flickr_cat_000296.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000296.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b95b3884688dc4a78d3360799fbaf199": {
+            "format": "jpg",
+            "id": "b95b3884688dc4a78d3360799fbaf199",
+            "name": "flickr_cat_000297.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000297.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "832a7c02859c85d260511a8eb482664a": {
+            "format": "jpg",
+            "id": "832a7c02859c85d260511a8eb482664a",
+            "name": "flickr_cat_000298.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000298.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5adabc80958133ebc2fc8e1d5b15697": {
+            "format": "jpg",
+            "id": "f5adabc80958133ebc2fc8e1d5b15697",
+            "name": "flickr_cat_000299.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000299.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a2216bb9a45e59316dc342a45dab0ec": {
+            "format": "jpg",
+            "id": "8a2216bb9a45e59316dc342a45dab0ec",
+            "name": "flickr_cat_000300.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000300.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b13fdefc8517940868fe290b2cee19cd": {
+            "format": "jpg",
+            "id": "b13fdefc8517940868fe290b2cee19cd",
+            "name": "flickr_cat_000301.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000301.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f40b1037d61085040d48e16cbb211af": {
+            "format": "jpg",
+            "id": "0f40b1037d61085040d48e16cbb211af",
+            "name": "flickr_cat_000302.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000302.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "576c3de64d98795c615034fdcb854bc7": {
+            "format": "jpg",
+            "id": "576c3de64d98795c615034fdcb854bc7",
+            "name": "flickr_cat_000303.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000303.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a706e60fa545d7f072ffe528c4cdb9de": {
+            "format": "jpg",
+            "id": "a706e60fa545d7f072ffe528c4cdb9de",
+            "name": "flickr_cat_000304.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000304.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8a61064489457cb12a72ad17e99a87f": {
+            "format": "jpg",
+            "id": "f8a61064489457cb12a72ad17e99a87f",
+            "name": "flickr_cat_000305.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000305.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45d12ce29586a43cb3ecffd708b81727": {
+            "format": "jpg",
+            "id": "45d12ce29586a43cb3ecffd708b81727",
+            "name": "flickr_cat_000306.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000306.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81766a65e6aa2324d75ece549d67449e": {
+            "format": "jpg",
+            "id": "81766a65e6aa2324d75ece549d67449e",
+            "name": "flickr_cat_000307.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000307.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "926c4c1bbe9a6a6ee8d34f84a4115077": {
+            "format": "jpg",
+            "id": "926c4c1bbe9a6a6ee8d34f84a4115077",
+            "name": "flickr_cat_000308.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000308.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6a9905baa75c291d2d61434e8434cc7": {
+            "format": "jpg",
+            "id": "b6a9905baa75c291d2d61434e8434cc7",
+            "name": "flickr_cat_000309.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000309.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "899e777e0ee3ccd144b642589b3a5d33": {
+            "format": "jpg",
+            "id": "899e777e0ee3ccd144b642589b3a5d33",
+            "name": "flickr_cat_000310.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000310.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0dba7676e299e46e6d4bf20aaff32112": {
+            "format": "jpg",
+            "id": "0dba7676e299e46e6d4bf20aaff32112",
+            "name": "flickr_cat_000312.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000312.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f271d6f348742c7756bbfe75bb076ca6": {
+            "format": "jpg",
+            "id": "f271d6f348742c7756bbfe75bb076ca6",
+            "name": "flickr_cat_000313.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000313.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76cf2672856af2cab10d8c78f96ba20b": {
+            "format": "jpg",
+            "id": "76cf2672856af2cab10d8c78f96ba20b",
+            "name": "flickr_cat_000315.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000315.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "536d2c5adc63f8fb90990cd714f06ac0": {
+            "format": "jpg",
+            "id": "536d2c5adc63f8fb90990cd714f06ac0",
+            "name": "flickr_cat_000316.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000316.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ccd1c167544dd5221b6a6a2f10b80cda": {
+            "format": "jpg",
+            "id": "ccd1c167544dd5221b6a6a2f10b80cda",
+            "name": "flickr_cat_000317.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000317.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca16147c04008db71ad67e71e5f2f3c2": {
+            "format": "jpg",
+            "id": "ca16147c04008db71ad67e71e5f2f3c2",
+            "name": "flickr_cat_000318.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000318.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df65d412eeb16b8618701e4b701a187f": {
+            "format": "jpg",
+            "id": "df65d412eeb16b8618701e4b701a187f",
+            "name": "flickr_cat_000319.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000319.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "360e84f28ca193698222d0f4dcb41ce9": {
+            "format": "jpg",
+            "id": "360e84f28ca193698222d0f4dcb41ce9",
+            "name": "flickr_cat_000321.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000321.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4708ec3345183a14999770c82e4181e4": {
+            "format": "jpg",
+            "id": "4708ec3345183a14999770c82e4181e4",
+            "name": "flickr_cat_000322.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000322.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbf984d386a07aa714ed85796b3925a3": {
+            "format": "jpg",
+            "id": "cbf984d386a07aa714ed85796b3925a3",
+            "name": "flickr_cat_000323.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000323.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d998fd875bb100f059b4681d084f3367": {
+            "format": "jpg",
+            "id": "d998fd875bb100f059b4681d084f3367",
+            "name": "flickr_cat_000324.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000324.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d90a0cfbe0609853d7ec18b9b0af091": {
+            "format": "jpg",
+            "id": "3d90a0cfbe0609853d7ec18b9b0af091",
+            "name": "flickr_cat_000325.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000325.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c4062cffcc7fd75875414d063019a13": {
+            "format": "jpg",
+            "id": "3c4062cffcc7fd75875414d063019a13",
+            "name": "flickr_cat_000326.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000326.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bc5362d2813d4c81001817a401f98c88": {
+            "format": "jpg",
+            "id": "bc5362d2813d4c81001817a401f98c88",
+            "name": "flickr_cat_000327.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000327.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b20a7f44ab714e146c80cb6a12d69265": {
+            "format": "jpg",
+            "id": "b20a7f44ab714e146c80cb6a12d69265",
+            "name": "flickr_cat_000328.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000328.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6227732b46f2c07d84f82a30c0890cbc": {
+            "format": "jpg",
+            "id": "6227732b46f2c07d84f82a30c0890cbc",
+            "name": "flickr_cat_000329.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000329.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb989c48510af52f8cb84b69db74d1f3": {
+            "format": "jpg",
+            "id": "cb989c48510af52f8cb84b69db74d1f3",
+            "name": "flickr_cat_000330.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000330.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b6d5cb8a9ee208663605a4205f12173": {
+            "format": "jpg",
+            "id": "6b6d5cb8a9ee208663605a4205f12173",
+            "name": "flickr_cat_000331.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000331.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa444e2899993a3297cf76b003921c81": {
+            "format": "jpg",
+            "id": "fa444e2899993a3297cf76b003921c81",
+            "name": "flickr_cat_000332.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000332.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e49b3a60e5f198bd8843bb6cd1c34883": {
+            "format": "jpg",
+            "id": "e49b3a60e5f198bd8843bb6cd1c34883",
+            "name": "flickr_cat_000333.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000333.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1375b1894fdea8821e8e226cbb74a0ec": {
+            "format": "jpg",
+            "id": "1375b1894fdea8821e8e226cbb74a0ec",
+            "name": "flickr_cat_000334.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000334.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0bc666d20d67af242704034d02074a0c": {
+            "format": "jpg",
+            "id": "0bc666d20d67af242704034d02074a0c",
+            "name": "flickr_cat_000335.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000335.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2e59c5145a75024549356128a1cc0f0": {
+            "format": "jpg",
+            "id": "a2e59c5145a75024549356128a1cc0f0",
+            "name": "flickr_cat_000336.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000336.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de21d519bc343c7363fa72ed78d9b88d": {
+            "format": "jpg",
+            "id": "de21d519bc343c7363fa72ed78d9b88d",
+            "name": "flickr_cat_000337.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000337.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26f79f798fb4455d62c598e22771f4b5": {
+            "format": "jpg",
+            "id": "26f79f798fb4455d62c598e22771f4b5",
+            "name": "flickr_cat_000338.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000338.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "928071beba8f47b9716f72a186b0bd26": {
+            "format": "jpg",
+            "id": "928071beba8f47b9716f72a186b0bd26",
+            "name": "flickr_cat_000339.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000339.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "735ecd3b0038e7cfd9b0bd584c0998fb": {
+            "format": "jpg",
+            "id": "735ecd3b0038e7cfd9b0bd584c0998fb",
+            "name": "flickr_cat_000340.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000340.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9108eb12671ad69bd491ce04396fc755": {
+            "format": "jpg",
+            "id": "9108eb12671ad69bd491ce04396fc755",
+            "name": "flickr_cat_000342.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000342.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cf0cd863aa3511a0fea003bddced8c4": {
+            "format": "jpg",
+            "id": "7cf0cd863aa3511a0fea003bddced8c4",
+            "name": "flickr_cat_000343.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000343.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d28245824fed15c58d922f4a15c98fd": {
+            "format": "jpg",
+            "id": "7d28245824fed15c58d922f4a15c98fd",
+            "name": "flickr_cat_000344.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000344.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d3f13fe3eb0d307d63a2de1db553360": {
+            "format": "jpg",
+            "id": "9d3f13fe3eb0d307d63a2de1db553360",
+            "name": "flickr_cat_000345.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000345.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a268ebdf68739e33e1c9edc75df21ab": {
+            "format": "jpg",
+            "id": "5a268ebdf68739e33e1c9edc75df21ab",
+            "name": "flickr_cat_000346.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000346.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "717b3f7f3ca3ed1f40a65d4619228896": {
+            "format": "jpg",
+            "id": "717b3f7f3ca3ed1f40a65d4619228896",
+            "name": "flickr_cat_000347.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000347.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32e9c61c1fcc8ec850e8bd9be2fb09dc": {
+            "format": "jpg",
+            "id": "32e9c61c1fcc8ec850e8bd9be2fb09dc",
+            "name": "flickr_cat_000348.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000348.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "800a1a55f24a3c5aacc39117f910dd49": {
+            "format": "jpg",
+            "id": "800a1a55f24a3c5aacc39117f910dd49",
+            "name": "flickr_cat_000349.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000349.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b722c8b860fba2d12de9d74d2cacea5c": {
+            "format": "jpg",
+            "id": "b722c8b860fba2d12de9d74d2cacea5c",
+            "name": "flickr_cat_000352.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000352.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e88b5a31a490157c3fcf52e8de0b2c8e": {
+            "format": "jpg",
+            "id": "e88b5a31a490157c3fcf52e8de0b2c8e",
+            "name": "flickr_cat_000353.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000353.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4565ebb7d41e5c4af143cc568ba17c2b": {
+            "format": "jpg",
+            "id": "4565ebb7d41e5c4af143cc568ba17c2b",
+            "name": "flickr_cat_000354.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000354.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "448969d281ef1c92efaf307cacb9f7df": {
+            "format": "jpg",
+            "id": "448969d281ef1c92efaf307cacb9f7df",
+            "name": "flickr_cat_000355.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000355.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1cb718cf6f87d8a67d066e928a60a3a": {
+            "format": "jpg",
+            "id": "e1cb718cf6f87d8a67d066e928a60a3a",
+            "name": "flickr_cat_000356.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000356.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8113c2914ad20764495bb28ce22d73ac": {
+            "format": "jpg",
+            "id": "8113c2914ad20764495bb28ce22d73ac",
+            "name": "flickr_cat_000357.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000357.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3f1e2090b9396d4a6528873dcd7ddf0": {
+            "format": "jpg",
+            "id": "d3f1e2090b9396d4a6528873dcd7ddf0",
+            "name": "flickr_cat_000358.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000358.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "637bd9ef4771ef5ef1f900f946ffc9fb": {
+            "format": "jpg",
+            "id": "637bd9ef4771ef5ef1f900f946ffc9fb",
+            "name": "flickr_cat_000359.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000359.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7a80730c871dd9647488bdcb52e6d25f": {
+            "format": "jpg",
+            "id": "7a80730c871dd9647488bdcb52e6d25f",
+            "name": "flickr_cat_000360.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000360.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37864b7009646289cee475d7592141db": {
+            "format": "jpg",
+            "id": "37864b7009646289cee475d7592141db",
+            "name": "flickr_cat_000361.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000361.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f23aa4f0ba70853ada302a204e28b803": {
+            "format": "jpg",
+            "id": "f23aa4f0ba70853ada302a204e28b803",
+            "name": "flickr_cat_000362.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000362.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7f495853d7529eb1da50d200b5d543c1": {
+            "format": "jpg",
+            "id": "7f495853d7529eb1da50d200b5d543c1",
+            "name": "flickr_cat_000363.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000363.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "189ea715cb5edaeb3437008d8a1df98e": {
+            "format": "jpg",
+            "id": "189ea715cb5edaeb3437008d8a1df98e",
+            "name": "flickr_cat_000364.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000364.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3058d820302404e44366eee3d747e703": {
+            "format": "jpg",
+            "id": "3058d820302404e44366eee3d747e703",
+            "name": "flickr_cat_000365.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000365.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03e4f1837c5ea102a7e42b0b38d1097c": {
+            "format": "jpg",
+            "id": "03e4f1837c5ea102a7e42b0b38d1097c",
+            "name": "flickr_cat_000366.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000366.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5a32286db44ff43a78afaf1266ffb75": {
+            "format": "jpg",
+            "id": "c5a32286db44ff43a78afaf1266ffb75",
+            "name": "flickr_cat_000367.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000367.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17e791411447c11e1e0e8570de98aa0d": {
+            "format": "jpg",
+            "id": "17e791411447c11e1e0e8570de98aa0d",
+            "name": "flickr_cat_000369.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000369.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c39d020c8fe56b716787a9e8f6716ada": {
+            "format": "jpg",
+            "id": "c39d020c8fe56b716787a9e8f6716ada",
+            "name": "flickr_cat_000392.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000392.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 1,
+            "type": 1
+        },
+        "60a6b2dc8886f29f6765ef78a4ab8fea": {
+            "format": "jpg",
+            "id": "60a6b2dc8886f29f6765ef78a4ab8fea",
+            "name": "flickr_cat_000370.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/flickr_cat_000370.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ae443f0678e7738af9a92ed7147a9f08": {
+            "format": "jpg",
+            "id": "ae443f0678e7738af9a92ed7147a9f08",
+            "name": "pixabay_cat_001060.jpg",
+            "path": "file:/Users/carly/Downloads/afhq/train/cat/pixabay_cat_001060.jpg",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}
