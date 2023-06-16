@@ -83,7 +83,14 @@ https://github.com/AntonMu/TrainYourOwnYOLO
 ### 3 change main aim
 Since I couldn't really solve the problem with the train model, I decided to change direction and make some simple attempts based on my artificial database.
 
+I started to make some attempts based on my cat eye tracking database: for example to determine whether a cat has its eyes open or not. So I made 2 adjustments to the database and added the label for closed eyes.
 
+Theoretically, the aspect ratio of the boxes of the eyes should be able to determine whether the eyes are open or not, but due to the problem that the faces of some cats' images are not facing each other, there is the problem that the eye rate of the open eyes from a distance is smaller than that of the closed eyes from a distance.
+
+<img width="288" alt="截屏2023-06-16 12 07 46" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/a857cfd5-5f72-432c-9319-26aef35a74c2">
+
+There is of course the problem of manual marking errors.
+<img width="1470" alt="截屏2023-06-16 12 09 26" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/0844e1e3-ae59-4f1f-a873-d1365941c3bf">
 ---------------
 
 https://towardsdatascience.com/using-computer-vision-to-find-the-best-cat-photo-from-a-video-fd11c43596b8
