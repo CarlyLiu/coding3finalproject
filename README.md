@@ -90,8 +90,15 @@ Theoretically, the aspect ratio of the boxes of the eyes should be able to deter
 <img width="288" alt="截屏2023-06-16 12 07 46" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/a857cfd5-5f72-432c-9319-26aef35a74c2">
 
 There is of course the problem of manual marking errors.
+
 <img width="1470" alt="截屏2023-06-16 12 09 26" src="https://github.com/CarlyLiu/coding3finalproject/assets/112803802/0844e1e3-ae59-4f1f-a873-d1365941c3bf">
+
+### 4 conclude
+
+This final gave me a better understanding of how difficult it is to create a database and how it affects model training, etc.
+
 ---------------
+other reference:
 
 https://towardsdatascience.com/using-computer-vision-to-find-the-best-cat-photo-from-a-video-fd11c43596b8
 
